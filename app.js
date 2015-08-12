@@ -9,7 +9,7 @@ var config = {
   app_name: 'Betcoins',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LdaLAsTAAAAACORMhgjkeuuPyamiG9aelbvRQaD',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LdaLAsTAAAAAHp7w2JsuK71NSIIwtq3tCRIUFkE',  // <----- EDIT ME!
   redirect_uri: 'https://betcoins.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
